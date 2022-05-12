@@ -18,5 +18,8 @@ Which categories have the fewest number of apps?
  - Which category has the highest share of (active) apps in the market?
  - Is any specific category dominating the market?
  - Which categories have the fewest number of apps?
+ - 
+![newplot](https://user-images.githubusercontent.com/68342710/168185464-729b2040-6898-45f5-89dd-b7cef31c517a.png)
 
+![newplot (1)](https://user-images.githubusercontent.com/68342710/168185421-30dfa7de-f612-4d5e-b3ee-d4d6fe63dd93.png)
 
